@@ -1,1 +1,1 @@
-these are my variables
+This is a devops directory

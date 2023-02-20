@@ -1,1 +1,1 @@
-these are my variables
+this is a c programming
